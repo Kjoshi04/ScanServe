@@ -10,7 +10,7 @@ QR MENU is a **Next.js-based** digital restaurant menu and ordering system desig
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 - **Frontend:** Next.js (React) + Tailwind CSS  
 - **Backend:** Node.js + Express.js  
 - **Database:** MongoDB  
